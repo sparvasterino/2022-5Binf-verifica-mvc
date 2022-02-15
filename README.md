@@ -1,6 +1,6 @@
 # Definizione API
 
-Vedi [Swagger](./swagger.yml)
+Vedi [Swagger](./swagger.yaml)
 
 # Pagina HTML
 
